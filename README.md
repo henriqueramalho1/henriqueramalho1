@@ -1,14 +1,10 @@
 ### Olá, eu sou Henrique Ramalho
 
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/henriqueramalho1/henriqueramalho1/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">Minhas competências incluem <strong>desenvolvimento de software em C/C++ e aplicações em Python.</strong> No momento, ocupo a posição de desenvolvedor C/C++, concentrando-me principalmente no domínio do desenvolvimento software desktop.</p>&nbsp;
+<p align="left">Minhas competências incluem <strong>desenvolvimento de software em C/C++ e aplicações em Python.</strong> No momento, ocupo a posição de desenvolvedor C/C++, concentrando-me principalmente no domínio do desenvolvimento software desktop.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=henriqueramalho1&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-henriqueramalho1.vercel.app/api/top-langs/?username=henriqueramalho1&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-.vercel.app/api/?username=henriqueramalho1&show_icons=true&theme=radical" />
  </div>
  
  &nbsp;
